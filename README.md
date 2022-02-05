@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I demonstrate my skills using basic HTML. Use of paragraphs, italic and bold, images, links and lists. I will also practice the Git workflow and the use of terminal simultaniously.
